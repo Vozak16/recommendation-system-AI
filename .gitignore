@@ -1,6 +1,7 @@
 *.snm
 *.vrb
 *.nav
+*.ipynb_checkpoints
 *.gz
 *.orig
 *.aux
